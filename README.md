@@ -8,8 +8,8 @@ Although the data provided is fairly limited, the filter search is still helpful
 <img width="354" alt="Screen Shot 2021-06-06 at 2 36 12 PM" src="https://user-images.githubusercontent.com/80358062/120937710-929c1100-c6d4-11eb-82cd-347aab5e4d3c.png">
 
 For an example lets pick the most popular state: New Mexico. By entering an abbreviated state and then hitting enter you can easily find all the data connected to New Mexico.
-<img width="1434" alt="Screen Shot 2021-06-06 at 2 38 00 PM" src="https://user-images.githubusercontent.com/80358062/120937749-d0009e80-c6d4-11eb-87b7-83e2447f472b.png">
 
+<img width="1434" alt="Screen Shot 2021-06-06 at 2 38 00 PM" src="https://user-images.githubusercontent.com/80358062/120937749-d0009e80-c6d4-11eb-87b7-83e2447f472b.png">
 
 ## Drawbacks and Recommendations
 While this search filter is a great idea, the data provided is very limited. A drawback is that the search entries are also very limited. The data only provides information for one country, the USA and not every state or city. To fix this:
