@@ -5,6 +5,7 @@ Via JavaScript, Bootstrap, and HTML formatting, a custom website was previously 
 
 ## How to Use
 Although the data provided is fairly limited, the filter search is still helpful. Pick a date, city, country,  or common UFO shape and enter it into the appropriate search. To fit the appropriate format of the search examples are present before you enter a search. 
+
 <img width="354" alt="Screen Shot 2021-06-06 at 2 36 12 PM" src="https://user-images.githubusercontent.com/80358062/120937710-929c1100-c6d4-11eb-82cd-347aab5e4d3c.png">
 
 For an example lets pick the most popular state: New Mexico. By entering an abbreviated state and then hitting enter you can easily find all the data connected to New Mexico.
